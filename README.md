@@ -1,5 +1,13 @@
 == README
 
+## Rails Girls 2015
+
+-----
+
+### L.A. Adventure App
+
+*Made by* **Denise Villegas**
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
