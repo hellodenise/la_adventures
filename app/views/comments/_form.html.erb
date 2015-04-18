@@ -18,14 +18,11 @@
   <div class="field">
     <%= f.label :body %><br>
     <%= f.text_field :body %>
+    <%= f.hidden_field :adventure_id %>
   </div>
   <div class="field">
     <%= f.label :text %><br>
     <%= f.text_field :text %>
-  </div>
-  <div class="field">
-    <%= f.label :adventure_id %><br>
-    <%= f.number_field :adventure_id %>
   </div>
   <div class="actions">
     <%= f.submit %>
