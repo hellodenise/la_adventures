@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+#carrierwave allows us to upload files in Rails
+gem 'carrierwave'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.1'
